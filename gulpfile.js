@@ -63,7 +63,7 @@ const htmls = () => {
 const build = () => {
     return src(
         [
-            'app/css/style.min.css',
+            'app/css/style2.min.css',
             'app/css/style.min.css.map',
             'app/js/index.min.js',
             'app/js/index.min.js.map',
